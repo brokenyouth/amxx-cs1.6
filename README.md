@@ -1,4 +1,5 @@
-# Custom AMXX Plugins made by me.
+# Custom AMXX Plugins for Counter-Strike 1.6.
+## Double Damage for VIP users.
 
 
 # VIP_DD.AMXX
